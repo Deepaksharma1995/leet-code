@@ -1,0 +1,4 @@
+class Solution {
+  toposort() {}
+  shortestPath() {}
+}
